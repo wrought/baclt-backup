@@ -1,0 +1,65 @@
+/* ::::: http://bayareaclt.net/BACLT/Land_Values_files/Land_Values.css (@media screen, print) ::::: */
+
+@media screen, print {
+.paragraph_style { color: rgb(71, 135, 255); font-family: "Calibri"; font-size: 16px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: 0px; line-height: 19px; margin: 0px; opacity: 1; padding-bottom: 0px; padding-top: 0px; text-align: left; text-decoration: underline; text-indent: 0px; text-transform: none; }
+.paragraph_style_1 { color: rgb(0, 0, 0); font-family: "Calibri-Bold","Calibri"; font-size: 36px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: 0px; line-height: 44px; margin: 0px; opacity: 1; padding-bottom: 0px; padding-top: 0px; text-align: center; text-decoration: none; text-indent: 0px; text-transform: none; }
+.paragraph_style_2 { color: rgb(0, 0, 0); font-family: "Calibri"; font-size: 30px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: 0px; line-height: 37px; margin: 0px 0px 0px 27px; opacity: 1; padding-bottom: 0px; padding-top: 0px; text-align: left; text-decoration: none; text-indent: -27px; text-transform: none; }
+.paragraph_style_3 { color: rgb(0, 0, 0); font-family: "Calibri"; font-size: 32px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: 0px; line-height: 39px; margin: 0px 0px 0px 27px; opacity: 1; padding-bottom: 0px; padding-top: 0px; text-align: left; text-decoration: none; text-indent: -27px; text-transform: none; }
+.style { line-height: 39px; text-decoration: underline; }
+.paragraph_style_4 { color: rgb(0, 0, 0); font-family: "Calibri"; font-size: 28px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: 0px; line-height: 35px; margin: 0px 0px 0px 59px; opacity: 1; padding-bottom: 0px; padding-top: 0px; text-align: left; text-decoration: none; text-indent: -23px; text-transform: none; }
+.paragraph_style_5 { color: rgb(0, 0, 0); font-family: "Calibri"; font-size: 28px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: 0px; line-height: 35px; margin: 0px 0px 0px 27px; opacity: 1; padding-bottom: 0px; padding-top: 0px; text-align: left; text-decoration: none; text-indent: -27px; text-transform: none; }
+.paragraph_style_6 { color: rgb(0, 0, 0); font-family: "Calibri"; font-size: 28px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: 0px; line-height: 35px; margin: 0px 0px 0px 36px; opacity: 1; padding-bottom: 0px; padding-top: 0px; text-align: left; text-decoration: none; text-indent: -36px; text-transform: none; }
+.style_SkipStroke { background: transparent none repeat scroll 0% 0%; float: left; margin: 6px 6px 6px 0px; opacity: 1; }
+.style_SkipStroke_1 { background: transparent none repeat scroll 0% 0%; opacity: 1; }
+.paragraph_style_7 { color: rgb(0, 0, 0); font-family: "Calibri"; font-size: 22px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: 0px; line-height: 27px; margin: 0px 0px 0px 68px; opacity: 1; padding-bottom: 0px; padding-top: 0px; text-align: left; text-decoration: none; text-indent: -36px; text-transform: none; }
+.paragraph_style_8 { color: rgb(0, 0, 0); font-family: "Calibri"; font-size: 30px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: 0px; line-height: 37px; margin: 0px 0px 0px 27px; opacity: 1; padding-bottom: 0px; padding-top: 0px; text-align: center; text-decoration: none; text-indent: -27px; text-transform: none; }
+.style_1 { font-family: "Calibri-Bold","Calibri"; font-size: 40px; font-stretch: normal; font-style: normal; font-weight: 700; line-height: 49px; }
+.style_2 { font-family: "Calibri-Bold","Calibri"; font-size: 30px; font-stretch: normal; font-style: normal; font-weight: 700; line-height: 37px; }
+.Body { color: rgb(88, 77, 77); font-family: "ArialMT","Arial",sans-serif; font-size: 15px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: 0px; line-height: 20px; margin: 0px; opacity: 1; padding-bottom: 0px; padding-top: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; }
+.Free_Form { color: rgb(88, 77, 77); font-family: "ArialMT","Arial",sans-serif; font-size: 15px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: 0px; line-height: 20px; margin: 0px; opacity: 1; padding-bottom: 0px; padding-top: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; }
+.graphic_image_style_default_SkipStroke { background: transparent none repeat scroll 0% 0%; float: left; margin: 6px 6px 6px 0px; opacity: 1; }
+.graphic_textbox_layout_style_default { padding: 4px; }
+.graphic_textbox_layout_style_default_External_702_379 { position: relative; }
+.graphic_textbox_layout_style_default_External_694_468 { position: relative; }
+.graphic_textbox_layout_style_default_External_686_3141 { position: relative; }
+.graphic_textbox_layout_style_default_External_700_643 { position: relative; }
+.graphic_textbox_layout_style_default_External_100_100 { position: relative; }
+.graphic_textbox_style_default_SkipStroke { background: transparent none repeat scroll 0% 0%; opacity: 1; }
+a { color: rgb(88, 77, 77); text-decoration: underline; }
+a:visited { color: rgb(121, 121, 121); text-decoration: underline; }
+a:hover { color: rgb(0, 0, 0); text-decoration: underline; }
+.bumper { font-size: 1px; line-height: 1px; }
+.tinyText { font-size: 1px; line-height: 1px; }
+#widget0 a:hover { color: rgb(0, 0, 0); text-decoration: underline; }
+#widget0 a:visited { color: rgb(121, 121, 121); text-decoration: underline; }
+#widget0 a { color: rgb(88, 77, 77); text-decoration: underline; }
+.spacer { font-size: 1px; line-height: 1px; }
+body {  }
+div { overflow: visible; }
+img { border: medium none; }
+.InlineBlock { display: inline; }
+.InlineBlock { display: inline-block; }
+.inline-block { display: inline-block; vertical-align: baseline; margin-bottom: 0.3em; }
+.inline-block.shape-with-text { vertical-align: bottom; }
+.vertical-align-middle-middlebox { display: table; }
+.vertical-align-middle-innerbox { display: table-cell; vertical-align: middle; }
+div.paragraph { position: relative; }
+li.full-width {  }
+}
+/* ::::: [internal] ::::: */
+
+img[src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"] { display: none ! important; }
+/* ::::: [internal] ::::: */
+
+div#widget0 .navbar { font-family: Arial,sans-serif; font-size: 1em; color: rgb(102, 102, 102); margin: 9px 0px 6px; line-height: 30px; }
+div#widget0 .navbar-bg { text-align: center; }
+div#widget0 .navbar-bg ul { list-style: outside none none; margin: 0px; padding: 0px; }
+div#widget0 li { list-style-type: none; display: inline; padding: 0px 10px; }
+div#widget0 li a { text-decoration: none; color: rgb(102, 102, 102); }
+div#widget0 li a:visited { text-decoration: none; color: rgb(102, 102, 102); }
+div#widget0 li a:hover { color: rgb(70, 60, 60); text-decoration: none; }
+div#widget0 li.current-page a { color: rgb(70, 60, 60); text-decoration: none; font-weight: bold; }
+/* ::::: http://bayareaclt.net/BACLT/Land_Values_files/Land_ValuesMoz.css ::::: */
+
+/* ERROR: Unable to access this CSS */
+

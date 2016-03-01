@@ -1,0 +1,52 @@
+/* ::::: http://bayareaclt.net/BACLT/Projects_files/Projects.css (@media screen, print) ::::: */
+
+@media screen, print {
+.style { padding: 4px; }
+.style_SkipStroke_1 { background: transparent none repeat scroll 0% 0%; opacity: 1; }
+.style_External_630_50 { position: relative; }
+.style_SkipStroke { background: transparent none repeat scroll 0% 0%; opacity: 1; }
+.Body { color: rgb(255, 255, 255); font-family: "ArialMT","Arial",sans-serif; font-size: 15px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: 0px; line-height: 20px; margin: 0px; opacity: 1; padding-bottom: 0px; padding-top: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; }
+.Header { color: rgb(255, 255, 255); font-family: "Arial-BoldMT","Arial",sans-serif; font-size: 36px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: 0px; line-height: 42px; margin: 0px; opacity: 1; padding-bottom: 0px; padding-top: 0px; text-align: center; text-decoration: none; text-indent: 0px; text-transform: none; }
+.Normal { padding: 4px; }
+.Normal_External_630_50 { position: relative; }
+.graphic_generic_header_textbox_style_default_SkipStroke { background: transparent none repeat scroll 0% 0%; opacity: 1; }
+.graphic_textbox_layout_style_default { padding: 4px; }
+.graphic_textbox_layout_style_default_External_620_137 { position: relative; }
+.graphic_textbox_style_default_SkipStroke { background: transparent none repeat scroll 0% 0%; opacity: 1; }
+a { color: rgb(255, 255, 255); text-decoration: underline; }
+a:visited { color: rgb(255, 255, 255); text-decoration: underline; }
+a:hover { color: rgb(221, 221, 221); text-decoration: underline; }
+.bumper { font-size: 1px; line-height: 1px; }
+#widget0 a:hover { color: rgb(221, 221, 221); text-decoration: underline; }
+#widget0 a:visited { color: rgb(255, 255, 255); text-decoration: underline; }
+#widget0 a { color: rgb(255, 255, 255); text-decoration: underline; }
+.spacer { font-size: 1px; line-height: 1px; }
+body {  }
+div { overflow: visible; }
+img { border: medium none; }
+.InlineBlock { display: inline; }
+.InlineBlock { display: inline-block; }
+.inline-block { display: inline-block; vertical-align: baseline; margin-bottom: 0.3em; }
+.inline-block.shape-with-text { vertical-align: bottom; }
+.vertical-align-middle-middlebox { display: table; }
+.vertical-align-middle-innerbox { display: table-cell; vertical-align: middle; }
+div.paragraph { position: relative; }
+li.full-width {  }
+}
+/* ::::: [internal] ::::: */
+
+img[src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"] { display: none ! important; }
+/* ::::: [internal] ::::: */
+
+div#widget0 .navbar { font-family: Arial,sans-serif; font-size: 1em; color: rgb(161, 161, 161); margin: 9px 0px 6px; line-height: 30px; }
+div#widget0 .navbar-bg { text-align: center; }
+div#widget0 .navbar-bg ul { list-style: outside none none; margin: 0px; padding: 0px; }
+div#widget0 li { list-style-type: none; display: inline; padding: 0px 10px; }
+div#widget0 li a { text-decoration: none; color: rgb(161, 161, 161); }
+div#widget0 li a:visited { text-decoration: none; color: rgb(161, 161, 161); }
+div#widget0 li a:hover { text-decoration: none; color: rgb(238, 238, 238); }
+div#widget0 li.current-page a { text-decoration: none; color: rgb(255, 255, 255); font-weight: bold; }
+/* ::::: http://bayareaclt.net/BACLT/Projects_files/ProjectsMoz.css ::::: */
+
+/* ERROR: Unable to access this CSS */
+

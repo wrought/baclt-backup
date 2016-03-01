@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../sitemap.xsl" type="text/xsl" media="all"?>
+<site>
+<page file="index.html" text="bayareaclt.net" title="Home">
+<page file="Projects.html" text="Projects " title="Projects">
+<page file="DerbyWalker_Co-op.html" text="Derby Walker Co-op" title="Derby Walker House Cooperative"/>
+<page file="NinthSt.html" text="Ninth Street Co-op" title="NinthSt"/>
+</page>
+<page file="BACLT_Fact_Sheets.html" text="BACLT Fact Sheets " title="BACLT Fact Sheets">
+<page file="GreenLiving.html" text="Green Living by Kathy Labriola and Elizabeth Lam" title="Green Living in Housing Cooperatives: Reducing your environmental impact through cooperative living"/>
+<page file="LongTermCare.html" text="Long term care Insurance" title="LongTermCare"/>
+<page file="12_Things.html" text="Twelve Things to Cover Your Assets" title="12 Things You Can Do to Cover Your Assets"/>
+<page file="Whats_a_CLT.html" text="What’s a CLT?" title="What’s a CLT?"/>
+<page file="Living_Well.html" text="Living Well Together in Challenging Times" title="Living Well Together in Challenging Times"/>
+<page file="LEHC.html" text="What’s an LEHC?" title="What’s an LEHC?"/>
+<page file="Co-op_Cohousing_Connection.html" text="Co-op, Cohousing - What’s the Connection?" title="Co-op, Cohousing: What’s the Connection?"/>
+</page>
+<page file="Land_Values.html" text="Land Values " title="Land Values">
+<page file="LandValueToo.html" text="And for an article on land value, go here" title="LandValueToo"/>
+</page>
+<page file="About_BACLT.html" text="About BACLT " title="About BACLT">
+<page file="Directors.html" text="Board of Directors" title="Directors"/>
+<page file="History.html" text="" title="History"/>
+</page>
+<page file="Training_&amp;_Technical_Assistance.html" text="Training &amp; Technical Assistance " title="Training and Technical Assistance">
+<page file="New_Co-op_Workshops.html" text="New co-ops" title="Training for New Co-ops"/>
+<page file="Existing_Co-op_Workshops.html" text="Existing co-ops" title="Training for Existing Co-ops"/>
+<page file="Converting_to_a_Co-op.html" text="convert" title="Converting to a Co-op"/>
+</page>
+<page file="Videos_1.html" text="Videos  " title="Videos">
+<page file="Video__intro_to_co-ops.html" text="Intro to Coops Workshop" title="Video: intro to co-ops"/>
+<page file="Video__Financing_a_Housing_Co-op.html" text="Financing a Housing Co-op" title="Video: Financing a Housing Co-op"/>
+</page>
+<page file="Links.html" text="Links " title="Links"/>
+<page file="Contact_Us.html" text="Contact Us " title="Contact Us"/>
+<page file="Join.html" text="Join " title="Join/Donate to BACLT"/>
+<page file="BrownShingle.html" text="Brown Shingle" title="BrownShingle"/>
+</page>
+</site>
